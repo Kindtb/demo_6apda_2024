@@ -1,3 +1,4 @@
 <?php 
-echo "<p>hi</p>";
-
+echo "<h1>hi</h1>";
+?>
+<html><p>Hallo</p></html>
