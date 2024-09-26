@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1><?php echo "mijn naam is silas"?></h1>
+    <h2>Dit is een h2</h2>
 </body>
 </html>
